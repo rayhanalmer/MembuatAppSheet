@@ -1,5 +1,7 @@
 # PBKK-AppSheet
 
-Nama: Abdullah Nasih Jasir<br>
-Kelas: PBKK A<br>
-NRP: 5025211111
+Pertemuan 15 - Membuat Aplikasi AppSheet  
+Nama: Rayhan Almer Kusumah  
+NRP: 5025211115  
+Kelas: Pemrograman Berbasis Kerangka Kerja A  
+Tahun: 2023  
